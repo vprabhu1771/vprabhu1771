@@ -1,7 +1,3 @@
-Creating a GitHub Profile README can be a great way to introduce yourself to visitors on GitHub. Here's a template to get you started:
-
----
-
 ## 👋 Hi there! I'm Prabhu!
 
 I'm a passionate developer who loves building software that makes a difference. Whether it’s creating an app, working on an API, or tinkering with hardware, I’m always looking for new challenges and learning opportunities.
