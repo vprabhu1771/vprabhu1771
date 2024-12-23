@@ -41,6 +41,14 @@ To use this template:
 
 Let me know if you'd like specific changes or need help with any additional information.
 
+Mini Projects
+
+1. React Challan Calculator (https://github.com/vprabhu1771/react_challan_calculator)
+
+2. Laravel Student Result Management (https://github.com/vprabhu1771/laravel_student_result_management)
+
+3. Laravel Pet Clinic Patient Management System (https://github.com/vprabhu1771/laravel_pet_clinic_patient_management_system)
+
 Laravel Projects
 
 1. Laravel Small Shop (https://github.com/vprabhu1771/laravel_small_shop)
