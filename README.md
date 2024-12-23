@@ -49,6 +49,8 @@ Mini Projects
 
 3. Laravel Pet Clinic Patient Management System (https://github.com/vprabhu1771/laravel_pet_clinic_patient_management_system)
 
+4. Vue Simple App (https://github.com/vprabhu1771/vue_simple_app)
+
 Laravel Projects
 
 1. Laravel Small Shop (https://github.com/vprabhu1771/laravel_small_shop)
