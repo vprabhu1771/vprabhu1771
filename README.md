@@ -41,6 +41,10 @@ To use this template:
 
 Let me know if you'd like specific changes or need help with any additional information.
 
+Flutter ML Projects
+
+1. Flutter Cat vs Dog Detector (https://github.com/vprabhu1771/flutter_cat_vs_dog_detector)
+
 Mini Projects
 
 1. React Challan Calculator (https://github.com/vprabhu1771/react_challan_calculator)
