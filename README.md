@@ -74,3 +74,5 @@ Laravel Projects
 8. Laravel IFSC Code Finder (https://github.com/vprabhu1771/laravel_ifsc_code_finder)
 
 9. Laravel Local Service (https://github.com/vprabhu1771/laravel_local_service)
+
+10. Laravel Pet Clinic Patient Management System (https://github.com/vprabhu1771/laravel_pet_clinic_patient_management_system)
