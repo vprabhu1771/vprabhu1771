@@ -51,9 +51,7 @@ Mini Projects
 
 2. Laravel Student Result Management (https://github.com/vprabhu1771/laravel_student_result_management)
 
-3. Laravel Pet Clinic Patient Management System (https://github.com/vprabhu1771/laravel_pet_clinic_patient_management_system)
-
-4. Vue Simple App (https://github.com/vprabhu1771/vue_simple_app)
+3. Vue Simple App (https://github.com/vprabhu1771/vue_simple_app)
 
 Laravel Projects
 
