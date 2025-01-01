@@ -59,16 +59,18 @@ Laravel Projects
 
 1. Laravel Small Shop (https://github.com/vprabhu1771/laravel_small_shop)
 
-1. Laravel Small Shop With Tailwind CSS (https://github.com/vprabhu1771/laravel_small_shop_with_tailwind_css)
+2. Laravel Small Shop With Tailwind CSS (https://github.com/vprabhu1771/laravel_small_shop_with_tailwind_css)
 
-2. Laravel Student Result System (https://github.com/vprabhu1771/laravel_student_result_system)
+3. Laravel Student Result System (https://github.com/vprabhu1771/laravel_student_result_system)
 
-3. Laravel Bed And Mattress Shop (https://github.com/vprabhu1771/laravel_bed_and_mattress_shop)
+4. Laravel Bed And Mattress Shop (https://github.com/vprabhu1771/laravel_bed_and_mattress_shop)
 
-4. Laravel Small Music App (https://github.com/vprabhu1771/laravel_small_music_app)
+5. Laravel Small Music App (https://github.com/vprabhu1771/laravel_small_music_app)
 
-5. Laravel Mobile Phone Specification (https://github.com/vprabhu1771/laravel_mobile_phone_specification)
+6. Laravel Mobile Phone Specification (https://github.com/vprabhu1771/laravel_mobile_phone_specification)
 
-6. Laravel Grocery Store (https://github.com/vprabhu1771/laravel_grocery_store)
+7. Laravel Grocery Store (https://github.com/vprabhu1771/laravel_grocery_store)
 
-7. Laravel IFSC Code Finder (https://github.com/vprabhu1771/laravel_ifsc_code_finder)
+8. Laravel IFSC Code Finder (https://github.com/vprabhu1771/laravel_ifsc_code_finder)
+
+9. Laravel Local Service (https://github.com/vprabhu1771/laravel_local_service)
