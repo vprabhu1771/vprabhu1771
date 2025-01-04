@@ -74,3 +74,5 @@ Laravel Projects
 9. Laravel Local Service (https://github.com/vprabhu1771/laravel_local_service)
 
 10. Laravel Pet Clinic Patient Management System (https://github.com/vprabhu1771/laravel_pet_clinic_patient_management_system)
+
+11. Laravel Daily Income Expense Tracker(https://github.com/vprabhu1771/laravel_daily_income_expense_tracker)
