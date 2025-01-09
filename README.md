@@ -45,6 +45,8 @@ Flutter ML Projects
 
 1. Flutter Cat vs Dog Detector (https://github.com/vprabhu1771/flutter_cat_vs_dog_detector)
 
+2. Flutter Tip Calculator(https://github.com/vprabhu1771/flutter_tip_calculator)
+
 Mini Projects
 
 1. React Challan Calculator (https://github.com/vprabhu1771/react_challan_calculator)
