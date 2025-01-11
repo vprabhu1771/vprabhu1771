@@ -47,7 +47,9 @@ Flutter ML Projects
 
 2. Flutter Tip Calculator (https://github.com/vprabhu1771/flutter_tip_calculator)
 
-3. Flutter Daily Income Expense Tracker (https://github.com/vprabhu1771/flutter_daily_income_expense_tracker)
+3. Flutter BMI Calculator (https://github.com/vprabhu1771/flutter_bmi_calculator)
+
+4. Flutter Daily Income Expense Tracker (https://github.com/vprabhu1771/flutter_daily_income_expense_tracker)
 
 Mini Projects
 
