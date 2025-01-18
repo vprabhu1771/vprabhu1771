@@ -51,6 +51,8 @@ Flutter ML Projects
 
 4. Flutter Daily Income Expense Tracker (https://github.com/vprabhu1771/flutter_daily_income_expense_tracker)
 
+5. Flutter Dog CEO (https://github.com/vprabhu1771/flutter_dog_ceo)
+
 Mini Projects
 
 1. React Challan Calculator (https://github.com/vprabhu1771/react_challan_calculator)
