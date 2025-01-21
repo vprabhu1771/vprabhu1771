@@ -53,6 +53,8 @@ Flutter ML Projects
 
 5. Flutter Dog CEO (https://github.com/vprabhu1771/flutter_dog_ceo)
 
+6. Flutter Whatsapp Clone (https://github.com/vprabhu1771/flutter_whatsapp_clone)
+
 Mini Projects
 
 1. React Challan Calculator (https://github.com/vprabhu1771/react_challan_calculator)
