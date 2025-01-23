@@ -94,3 +94,46 @@ IOT Projects
 2. React Ardunio (https://github.com/vprabhu1771/react_arduino)
 
 3. Flutter Ardunio (https://github.com/vprabhu1771/flutter_arduino)
+
+
+Training Material
+
+1. C-Essential-Training (https://github.com/vprabhu1771/C-Essential-Training)
+
+2. CPP-Essential-Training (https://github.com/vprabhu1771/CPP-Essential-Training)
+
+3. CSS3-Part-1 (https://github.com/vprabhu1771/CSS3-Part-1)
+
+4. CSS3-Part-2 (https://github.com/vprabhu1771/CSS3-Part-2)
+
+5. Laravel-Email (https://github.com/vprabhu1771/Laravel-Email)
+
+6. Laravel-Imagick (https://github.com/vprabhu1771/Laravel-Imagick)
+
+7. Laravel-and-React (https://github.com/vprabhu1771/Laravel-and-React)
+
+8. Vite-React-and-React-Bootstrap (https://github.com/vprabhu1771/Vite-React-and-React-Bootstrap)
+
+9. Vite-React-and-Bootstrap (https://github.com/vprabhu1771/Vite-React-and-Bootstrap)
+
+10. JQuery-UI-Essential-Training (https://github.com/vprabhu1771/JQuery-UI-Essential-Training)
+
+11. Mac-OS (https://github.com/vprabhu1771/Mac-OS)
+
+12. JavaFX-Essential-Training (https://github.com/vprabhu1771/JavaFX-Essential-Training)
+
+13. JavaFX-Advanced-Training (https://github.com/vprabhu1771/JavaFX-Advanced-Training)
+
+14. Angular-Material-Design (https://github.com/vprabhu1771/Angular-Material-Design)
+
+15. git-Essential-Training (https://github.com/vprabhu1771/git-Essential-Training)
+
+16. PostgreSQL-Essential-Training (https://github.com/vprabhu1771/PostgreSQL-Essential-Training)
+
+17. Selinium-using-Python (https://github.com/vprabhu1771/Selinium-using-Python)
+
+18. Selinium-using-Java (https://github.com/vprabhu1771/Selinium-using-Java)
+
+19. Ruby-Essential-Training (https://github.com/vprabhu1771/Ruby-Essential-Training)
+
+20. Jenkins-Essential-Training (https://github.com/vprabhu1771/Jenkins-Essential-Training)
