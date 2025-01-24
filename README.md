@@ -102,9 +102,13 @@ Training Material
 
 2. CPP-Essential-Training (https://github.com/vprabhu1771/CPP-Essential-Training)
 
+1. HTML5-Essential-Training (https://github.com/vprabhu1771/HTML5-Essential-Training)
+
 3. CSS3-Part-1 (https://github.com/vprabhu1771/CSS3-Part-1)
 
 4. CSS3-Part-2 (https://github.com/vprabhu1771/CSS3-Part-2)
+
+1. CSS3---Part-3 (https://github.com/vprabhu1771/CSS3---Part-3)
 
 5. Laravel-Email (https://github.com/vprabhu1771/Laravel-Email)
 
@@ -137,3 +141,51 @@ Training Material
 19. Ruby-Essential-Training (https://github.com/vprabhu1771/Ruby-Essential-Training)
 
 20. Jenkins-Essential-Training (https://github.com/vprabhu1771/Jenkins-Essential-Training)
+
+1. React-Native-Essential-Training (https://github.com/vprabhu1771/React-Native-Essential-Training)
+
+1. Flask-Essential-Training (https://github.com/vprabhu1771/Flask-Essential-Training)
+
+1. Chart-JS (https://github.com/vprabhu1771/Chart-JS)
+
+1. jsGrid (https://github.com/vprabhu1771/jsGrid)
+
+1. DropzoneJS (https://github.com/vprabhu1771/DropzoneJS)
+
+1. Java-Spring-Boot-Essential-Training (https://github.com/vprabhu1771/Java-Spring-Boot-Essential-Training)
+
+1. wx-widgets-python-Training (https://github.com/vprabhu1771/wx-widgets-python-Training)
+
+1. SCSS-Essential-Training (https://github.com/vprabhu1771/SCSS-Essential-Training)
+
+1. Next.js-14-Essential-Training (https://github.com/vprabhu1771/Next.js-14-Essential-Training)
+
+1. GNU-Make-Essential-Training (https://github.com/vprabhu1771/GNU-Make-Essential-Training)
+
+1. Matplotlib-Essential-Training (https://github.com/vprabhu1771/Matplotlib-Essential-Training)
+
+1. CMake-Essential-Training (https://github.com/vprabhu1771/CMake-Essential-Training)
+
+1. Dart-Essential-Training (https://github.com/vprabhu1771/Dart-Essential-Training)
+
+1. SASS-Essential-Training (https://github.com/vprabhu1771/SASS-Essential-Training)
+
+1. Owl-Carousel-2-Essential-Training (https://github.com/vprabhu1771/Owl-Carousel-2-Essential-Training)
+
+1. Javascript-DOM-Essential-Training (https://github.com/vprabhu1771/Javascript-DOM-Essential-Training)
+
+1. Javascript-DOM-EventListener (https://github.com/vprabhu1771/Javascript-DOM-EventListener)
+
+1. Axios-Essential-Training (https://github.com/vprabhu1771/Axios-Essential-Training)
+
+1. Sweet-Alert-Essential-Training (https://github.com/vprabhu1771/Sweet-Alert-Essential-Training)
+
+1. CURL-Essential-Training (https://github.com/vprabhu1771/CURL-Essential-Training)
+
+1. Select-2-Essential-Training (https://github.com/vprabhu1771/Select-2-Essential-Training)
+
+1. LESS-Essential-Training (https://github.com/vprabhu1771/LESS-Essential-Training)
+
+1. Semantic-UI-Essential-Training (https://github.com/vprabhu1771/Semantic-UI-Essential-Training)
+
+1. TypeScript-Essential-Training (https://github.com/vprabhu1771/TypeScript-Essential-Training)
