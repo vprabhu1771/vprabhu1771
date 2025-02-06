@@ -87,6 +87,10 @@ Laravel Projects
 
 11. Laravel Daily Income Expense Tracker(https://github.com/vprabhu1771/laravel_daily_income_expense_tracker)
 
+12. Laravel Small Milk Shop (https://github.com/vprabhu1771/laravel_small_milk_shop)
+
+13. Flutter Small Milk Shop (https://github.com/vprabhu1771/flutter_small_milk_shop)
+
 IOT Projects
 
 1. Node Ardunio (https://github.com/vprabhu1771/node_arduino)
