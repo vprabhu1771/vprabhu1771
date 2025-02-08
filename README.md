@@ -45,15 +45,17 @@ Flutter ML Projects
 
 1. Flutter Cat vs Dog Detector (https://github.com/vprabhu1771/flutter_cat_vs_dog_detector)
 
-2. Flutter Tip Calculator (https://github.com/vprabhu1771/flutter_tip_calculator)
+2. Flutter Hand Sign (https://github.com/vprabhu1771/flutter_hand_sign)
 
-3. Flutter BMI Calculator (https://github.com/vprabhu1771/flutter_bmi_calculator)
+3. Flutter Tip Calculator (https://github.com/vprabhu1771/flutter_tip_calculator)
 
-4. Flutter Daily Income Expense Tracker (https://github.com/vprabhu1771/flutter_daily_income_expense_tracker)
+4. Flutter BMI Calculator (https://github.com/vprabhu1771/flutter_bmi_calculator)
 
-5. Flutter Dog CEO (https://github.com/vprabhu1771/flutter_dog_ceo)
+5. Flutter Daily Income Expense Tracker (https://github.com/vprabhu1771/flutter_daily_income_expense_tracker)
 
-6. Flutter Whatsapp Clone (https://github.com/vprabhu1771/flutter_whatsapp_clone)
+6. Flutter Dog CEO (https://github.com/vprabhu1771/flutter_dog_ceo)
+
+7. Flutter Whatsapp Clone (https://github.com/vprabhu1771/flutter_whatsapp_clone)
 
 Mini Projects
 
