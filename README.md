@@ -45,6 +45,8 @@ Flutter ML Projects
 
 1. Flutter Cat vs Dog Detector (https://github.com/vprabhu1771/flutter_cat_vs_dog_detector)
 
+2. Flutter Hand Sign (https://github.com/vprabhu1771/flutter_hand_sign)
+
 3. Flutter Tip Calculator (https://github.com/vprabhu1771/flutter_tip_calculator)
 
 4. Flutter BMI Calculator (https://github.com/vprabhu1771/flutter_bmi_calculator)
