@@ -93,6 +93,8 @@ Laravel Projects
 
 13. Flutter Small Milk Shop (https://github.com/vprabhu1771/flutter_small_milk_shop)
 
+14. Laravel Invoice Management System (https://github.com/vprabhu1771/laravel_invoice_management_system)
+
 IOT Projects
 
 1. Node Ardunio (https://github.com/vprabhu1771/node_arduino)
