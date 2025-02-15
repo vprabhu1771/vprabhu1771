@@ -77,7 +77,7 @@ Laravel Projects
 
 5. Laravel Bed And Mattress Shop (https://github.com/vprabhu1771/laravel_bed_and_mattress_shop)
 
-6. Laravel Small Music App (https://github.com/vprabhu1771/laravel_small_music_app)
+6. Laravel Independent Music Streaming (https://github.com/vprabhu1771/laravel_independent_music_streaming)
 
 7. Laravel Mobile Phone Specification (https://github.com/vprabhu1771/laravel_mobile_phone_specification)
 
