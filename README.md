@@ -67,33 +67,35 @@ Mini Projects
 
 Laravel Projects
 
-1. Laravel Small Shop (https://github.com/vprabhu1771/laravel_small_shop)
+1. Laravel Sanctum API Demo (https://github.com/vprabhu1771/laravel_sanctum_api_demo)
 
-2. Laravel Small Shop With Tailwind CSS (https://github.com/vprabhu1771/laravel_small_shop_with_tailwind_css)
+2. Laravel Small Shop (https://github.com/vprabhu1771/laravel_small_shop)
 
-3. Laravel Student Result System (https://github.com/vprabhu1771/laravel_student_result_system)
+3. Laravel Small Shop With Tailwind CSS (https://github.com/vprabhu1771/laravel_small_shop_with_tailwind_css)
 
-4. Laravel Bed And Mattress Shop (https://github.com/vprabhu1771/laravel_bed_and_mattress_shop)
+4. Laravel Student Result System (https://github.com/vprabhu1771/laravel_student_result_system)
 
-5. Laravel Small Music App (https://github.com/vprabhu1771/laravel_small_music_app)
+5. Laravel Bed And Mattress Shop (https://github.com/vprabhu1771/laravel_bed_and_mattress_shop)
 
-6. Laravel Mobile Phone Specification (https://github.com/vprabhu1771/laravel_mobile_phone_specification)
+6. Laravel Small Music App (https://github.com/vprabhu1771/laravel_small_music_app)
 
-7. Laravel Grocery Store (https://github.com/vprabhu1771/laravel_grocery_store)
+7. Laravel Mobile Phone Specification (https://github.com/vprabhu1771/laravel_mobile_phone_specification)
 
-8. Laravel IFSC Code Finder (https://github.com/vprabhu1771/laravel_ifsc_code_finder)
+8. Laravel Grocery Store (https://github.com/vprabhu1771/laravel_grocery_store)
 
-9. Laravel Local Service (https://github.com/vprabhu1771/laravel_local_service)
+9. Laravel IFSC Code Finder (https://github.com/vprabhu1771/laravel_ifsc_code_finder)
 
-10. Laravel Pet Clinic Patient Management System (https://github.com/vprabhu1771/laravel_pet_clinic_patient_management_system)
+10. Laravel Local Service (https://github.com/vprabhu1771/laravel_local_service)
 
-11. Laravel Daily Income Expense Tracker(https://github.com/vprabhu1771/laravel_daily_income_expense_tracker)
+11. Laravel Pet Clinic Patient Management System (https://github.com/vprabhu1771/laravel_pet_clinic_patient_management_system)
 
-12. Laravel Small Milk Shop (https://github.com/vprabhu1771/laravel_small_milk_shop)
+12. Laravel Daily Income Expense Tracker(https://github.com/vprabhu1771/laravel_daily_income_expense_tracker)
 
-13. Flutter Small Milk Shop (https://github.com/vprabhu1771/flutter_small_milk_shop)
+13. Laravel Small Milk Shop (https://github.com/vprabhu1771/laravel_small_milk_shop)
 
-14. Laravel Invoice Management System (https://github.com/vprabhu1771/laravel_invoice_management_system)
+14. Flutter Small Milk Shop (https://github.com/vprabhu1771/flutter_small_milk_shop)
+
+15. Laravel Invoice Management System (https://github.com/vprabhu1771/laravel_invoice_management_system)
 
 IOT Projects
 
