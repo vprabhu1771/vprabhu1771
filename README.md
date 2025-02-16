@@ -91,7 +91,7 @@ Laravel Projects
 
 12. Laravel Daily Income Expense Tracker(https://github.com/vprabhu1771/laravel_daily_income_expense_tracker)
 
-13. Laravel Small Milk Shop (https://github.com/vprabhu1771/laravel_small_milk_shop)
+13. Laravel Milk Shop (https://github.com/vprabhu1771/laravel_milk_shop)
 
 14. Flutter Small Milk Shop (https://github.com/vprabhu1771/flutter_small_milk_shop)
 
