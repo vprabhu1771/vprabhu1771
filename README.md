@@ -69,33 +69,37 @@ Laravel Projects
 
 1. Laravel Sanctum API Demo (https://github.com/vprabhu1771/laravel_sanctum_api_demo)
 
-2. Laravel Small Shop (https://github.com/vprabhu1771/laravel_small_shop)
+2. Flutter Sanctum API Demo (https://github.com/vprabhu1771/flutter_laravel_sanctum_api_demo)
 
-3. Laravel Small Shop With Tailwind CSS (https://github.com/vprabhu1771/laravel_small_shop_with_tailwind_css)
+3. Flutter Supabase Authentication Demo (https://github.com/vprabhu1771/flutter_supabase_authentication_demo)
 
-4. Laravel Student Result System (https://github.com/vprabhu1771/laravel_student_result_system)
+4. Laravel Small Shop (https://github.com/vprabhu1771/laravel_small_shop)
 
-5. Laravel Bed And Mattress Shop (https://github.com/vprabhu1771/laravel_bed_and_mattress_shop)
+5. Laravel Small Shop With Tailwind CSS (https://github.com/vprabhu1771/laravel_small_shop_with_tailwind_css)
 
-6. Laravel Independent Music Streaming (https://github.com/vprabhu1771/laravel_independent_music_streaming)
+6. Laravel Student Result System (https://github.com/vprabhu1771/laravel_student_result_system)
 
-7. Laravel Mobile Phone Specification (https://github.com/vprabhu1771/laravel_mobile_phone_specification)
+7. Laravel Bed And Mattress Shop (https://github.com/vprabhu1771/laravel_bed_and_mattress_shop)
 
-8. Laravel Grocery Store (https://github.com/vprabhu1771/laravel_grocery_store)
+8. Laravel Independent Music Streaming (https://github.com/vprabhu1771/laravel_independent_music_streaming)
 
-9. Laravel IFSC Code Finder (https://github.com/vprabhu1771/laravel_ifsc_code_finder)
+9. Laravel Mobile Phone Specification (https://github.com/vprabhu1771/laravel_mobile_phone_specification)
 
-10. Laravel Local Service (https://github.com/vprabhu1771/laravel_local_service)
+10. Laravel Grocery Store (https://github.com/vprabhu1771/laravel_grocery_store)
 
-11. Laravel Pet Clinic Patient Management System (https://github.com/vprabhu1771/laravel_pet_clinic_patient_management_system)
+11. Laravel IFSC Code Finder (https://github.com/vprabhu1771/laravel_ifsc_code_finder)
 
-12. Laravel Daily Income Expense Tracker(https://github.com/vprabhu1771/laravel_daily_income_expense_tracker)
+12. Laravel Local Service (https://github.com/vprabhu1771/laravel_local_service)
 
-13. Laravel Milk Shop (https://github.com/vprabhu1771/laravel_milk_shop)
+13. Laravel Pet Clinic Patient Management System (https://github.com/vprabhu1771/laravel_pet_clinic_patient_management_system)
 
-14. Flutter Small Milk Shop (https://github.com/vprabhu1771/flutter_small_milk_shop)
+14. Laravel Daily Income Expense Tracker(https://github.com/vprabhu1771/laravel_daily_income_expense_tracker)
 
-15. Laravel Invoice Management System (https://github.com/vprabhu1771/laravel_invoice_management_system)
+15. Laravel Milk Shop (https://github.com/vprabhu1771/laravel_milk_shop)
+
+16. Flutter Small Milk Shop (https://github.com/vprabhu1771/flutter_small_milk_shop)
+
+17. Laravel Invoice Management System (https://github.com/vprabhu1771/laravel_invoice_management_system)
 
 IOT Projects
 
