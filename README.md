@@ -203,3 +203,5 @@ Training Material
 1. Semantic-UI-Essential-Training (https://github.com/vprabhu1771/Semantic-UI-Essential-Training)
 
 1. TypeScript-Essential-Training (https://github.com/vprabhu1771/TypeScript-Essential-Training)
+
+2. Supabase Essential Training (https://github.com/vprabhu1771/Supabase-Essential-Training)
