@@ -41,6 +41,22 @@ To use this template:
 
 Let me know if you'd like specific changes or need help with any additional information.
 
+Supabase Projects
+
+1. Flutter Supabase Authentication Demo (https://github.com/vprabhu1771/flutter_supabase_authentication_demo)
+
+2. Flutter Supabase Skill Development (https://github.com/vprabhu1771/flutter_supabase_skill_development)
+
+3. Flutter Supabase Dictionary (https://github.com/vprabhu1771/flutter_supabase_dictionary)
+
+4. Flutter Supabase Local Service (https://github.com/vprabhu1771/flutter_supabase_local_service)
+
+5. Flutter Supabase Milk Subscription (https://github.com/vprabhu1771/flutter_supabase_milk_subscription)
+
+6. Flutter Supabase Gold Scheme (https://github.com/vprabhu1771/flutter_supabase_gold_scheme)
+
+7. Flutter Supabase Independent Music Straming (https://github.com/vprabhu1771/flutter_supabase_independent_music_streaming)
+
 Flutter ML Projects
 
 1. Flutter Cat vs Dog Detector (https://github.com/vprabhu1771/flutter_cat_vs_dog_detector)
@@ -57,6 +73,8 @@ Flutter ML Projects
 
 7. Flutter Whatsapp Clone (https://github.com/vprabhu1771/flutter_whatsapp_clone)
 
+8. Flutter Personal Diary for Visually Impaired (https://github.com/vprabhu1771/flutter_personal_diary_for_visually_impaired)
+
 Mini Projects
 
 1. React Challan Calculator (https://github.com/vprabhu1771/react_challan_calculator)
@@ -72,14 +90,6 @@ Laravel Projects
 2. Flutter Sanctum API Demo (https://github.com/vprabhu1771/flutter_laravel_sanctum_api_demo)
 
 3. Laravel Filament Roles and Permissions (https://github.com/vprabhu1771/laravel_filament_roles_and_permissions)
-
-4. Flutter Supabase Authentication Demo (https://github.com/vprabhu1771/flutter_supabase_authentication_demo)
-
-5. Flutter Supabase Skill Development (https://github.com/vprabhu1771/flutter_supabase_skill_development)
-
-6. Flutter Supabase Dictionary (https://github.com/vprabhu1771/flutter_supabase_dictionary)
-
-7. Flutter Personal Diary for Visually Impaired (https://github.com/vprabhu1771/flutter_personal_diary_for_visually_impaired)
 
 8. Laravel Small Shop (https://github.com/vprabhu1771/laravel_small_shop)
 
