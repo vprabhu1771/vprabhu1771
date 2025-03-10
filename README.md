@@ -47,15 +47,19 @@ Supabase Projects
 
 2. Flutter Supabase Skill Development (https://github.com/vprabhu1771/flutter_supabase_skill_development)
 
-3. Flutter Supabase Dictionary (https://github.com/vprabhu1771/flutter_supabase_dictionary)
+4. Flutter Supabase Dictionary (https://github.com/vprabhu1771/flutter_supabase_dictionary)
 
-4. Flutter Supabase Local Service (https://github.com/vprabhu1771/flutter_supabase_local_service)
+5. Flutter Supabase Chat (https://github.com/vprabhu1771/flutter_supabase_chat)
 
-5. Flutter Supabase Milk Subscription (https://github.com/vprabhu1771/flutter_supabase_milk_subscription)
+---------------
 
-6. Flutter Supabase Gold Scheme (https://github.com/vprabhu1771/flutter_supabase_gold_scheme)
+7. Flutter Supabase Local Service (https://github.com/vprabhu1771/flutter_supabase_local_service)
 
-7. Flutter Supabase Independent Music Straming (https://github.com/vprabhu1771/flutter_supabase_independent_music_streaming)
+8. Flutter Supabase Milk Subscription (https://github.com/vprabhu1771/flutter_supabase_milk_subscription)
+
+9. Flutter Supabase Gold Scheme (https://github.com/vprabhu1771/flutter_supabase_gold_scheme)
+
+10. Flutter Supabase Independent Music Straming (https://github.com/vprabhu1771/flutter_supabase_independent_music_streaming)
 
 Flutter ML Projects
 
