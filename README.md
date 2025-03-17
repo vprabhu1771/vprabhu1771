@@ -43,6 +43,8 @@ Let me know if you'd like specific changes or need help with any additional info
 
 Supabase Projects
 
+---------------
+
 1. Flutter Supabase Authentication Demo (https://github.com/vprabhu1771/flutter_supabase_authentication_demo)
 
 2. Flutter Supabase Skill Development (https://github.com/vprabhu1771/flutter_supabase_skill_development)
@@ -51,8 +53,6 @@ Supabase Projects
 
 5. Flutter Supabase Chat (https://github.com/vprabhu1771/flutter_supabase_chat)
 
----------------
-
 7. Flutter Supabase Local Service (https://github.com/vprabhu1771/flutter_supabase_local_service)
 
 8. Flutter Supabase Milk Subscription (https://github.com/vprabhu1771/flutter_supabase_milk_subscription)
@@ -60,6 +60,8 @@ Supabase Projects
 9. Flutter Supabase Gold Scheme (https://github.com/vprabhu1771/flutter_supabase_gold_scheme)
 
 10. Flutter Supabase Independent Music Straming (https://github.com/vprabhu1771/flutter_supabase_independent_music_streaming)
+
+---------------
 
 Flutter ML Projects
 
