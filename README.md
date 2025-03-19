@@ -61,6 +61,8 @@ Supabase Projects
 
 10. Flutter Supabase Independent Music Straming (https://github.com/vprabhu1771/flutter_supabase_independent_music_streaming)
 
+11. Flutter Supabase Weight Bridge Record Control(https://github.com/vprabhu1771/flutter_supabase_weight_bridge_record_control)
+
 ---------------
 
 Flutter ML Projects
