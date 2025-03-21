@@ -226,6 +226,8 @@ Training Material
 
 1. Select-2-Essential-Training (https://github.com/vprabhu1771/Select-2-Essential-Training)
 
+2. Tkinter Excersie (https://github.com/vprabhu1771/Tkinter-Excersie)
+
 1. LESS-Essential-Training (https://github.com/vprabhu1771/LESS-Essential-Training)
 
 1. Semantic-UI-Essential-Training (https://github.com/vprabhu1771/Semantic-UI-Essential-Training)
