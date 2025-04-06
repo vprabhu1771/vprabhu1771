@@ -91,6 +91,10 @@ Mini Projects
 
 3. Vue Simple App (https://github.com/vprabhu1771/vue_simple_app)
 
+Django Projects
+
+1. Django Weather Report (https://github.com/vprabhu1771/dj_weather_report)
+
 Laravel Projects
 
 1. Laravel Sanctum API Demo (https://github.com/vprabhu1771/laravel_sanctum_api_demo)
