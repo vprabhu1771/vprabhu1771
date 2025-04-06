@@ -142,6 +142,8 @@ IOT Projects
 
 Training Material
 
+1. Arduino Essential Training (https://github.com/vprabhu1771/Arduino-Essential-Training)
+
 1. Android Kotlin Essential Training (https://github.com/vprabhu1771/Android-Kotlin-Essential-Training)
 
 1. C-Essential-Training (https://github.com/vprabhu1771/C-Essential-Training)
