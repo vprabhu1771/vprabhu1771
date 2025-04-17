@@ -95,6 +95,8 @@ Django Projects
 
 1. Django Weather Report (https://github.com/vprabhu1771/dj_weather_report)
 
+2. Django library Management System(https://github.com/vprabhu1771/dj_library_management_system)
+
 Laravel Projects
 
 1. Laravel Sanctum API Demo (https://github.com/vprabhu1771/laravel_sanctum_api_demo)
