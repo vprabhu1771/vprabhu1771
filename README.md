@@ -63,6 +63,8 @@ Supabase Projects
 
 11. Flutter Supabase Weight Bridge Record Control(https://github.com/vprabhu1771/flutter_supabase_weight_bridge_record_control)
 
+12. Flutter Supabase ZegoCloud Chat App(https://github.com/vprabhu1771/flutter_supabase_zegocloud_chat_app)
+
 ---------------
 
 Flutter ML Projects
