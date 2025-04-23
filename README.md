@@ -146,6 +146,8 @@ IOT Projects
 
 Training Material
 
+1. Excel-Essential-Training (https://github.com/vprabhu1771/Excel-Essential-Training)
+
 1. Arduino Essential Training (https://github.com/vprabhu1771/Arduino-Essential-Training)
 
 2. ESP32 Essential Training (https://github.com/vprabhu1771/ESP32-Essential-Training)
