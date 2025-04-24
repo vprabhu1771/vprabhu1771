@@ -149,6 +149,8 @@ IOT Projects
 Training Material
 
 1. Excel-Essential-Training (https://github.com/vprabhu1771/Excel-Essential-Training)
+   
+3. Faker Essential Training (https://github.com/vprabhu1771/Faker-Essential-Training)
 
 1. Arduino Essential Training (https://github.com/vprabhu1771/Arduino-Essential-Training)
 
