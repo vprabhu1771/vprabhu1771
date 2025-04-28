@@ -162,6 +162,8 @@ Training Material
 
 2. CPP-Essential-Training (https://github.com/vprabhu1771/CPP-Essential-Training)
 
+3. Programs-Exercises (https://github.com/vprabhu1771/Programs-Exercises)
+
 1. HTML5-Essential-Training (https://github.com/vprabhu1771/HTML5-Essential-Training)
 
 3. CSS3-Part-1 (https://github.com/vprabhu1771/CSS3-Part-1)
