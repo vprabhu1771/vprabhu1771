@@ -273,3 +273,7 @@ Training Material
 5. ESP32-Essential-Training (https://github.com/vprabhu1771/ESP32-Essential-Training)
 
 6. VBA Essential Training (https://github.com/vprabhu1771/VBA-Essential-Training)
+
+7. Flutter Essential Training (https://github.com/vprabhu1771/Flutter-Essential-Training)
+
+8. Flutter-Advanced-Training (https://github.com/vprabhu1771/Flutter-Advanced-Training)
