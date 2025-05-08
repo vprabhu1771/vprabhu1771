@@ -259,3 +259,5 @@ Training Material
 1. TypeScript-Essential-Training (https://github.com/vprabhu1771/TypeScript-Essential-Training)
 
 2. Supabase Essential Training (https://github.com/vprabhu1771/Supabase-Essential-Training)
+
+3. Microsoft SQL Essential Training (https://github.com/vprabhu1771/Microsoft-SQL-Essential-Training)
