@@ -141,9 +141,11 @@ Laravel Projects
 
 21. Laravel Invoice Management System (https://github.com/vprabhu1771/laravel_invoice_management_system)
 
-22. Laravel TKTMI(https://github.com/vprabhu1771/laravel_tktmi)
+22. Laravel Jabal Hemalaya for Inspections v2 (https://github.com/vprabhu1771/laravel_jabal_hemalaya_for_inspections_v2)
 
-23. HAAC (https://github.com/vprabhu1771/haac)
+23. Laravel TKTMI(https://github.com/vprabhu1771/laravel_tktmi)
+
+24. HAAC (https://github.com/vprabhu1771/haac)
 
 IOT Projects
 
