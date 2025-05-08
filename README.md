@@ -147,6 +147,12 @@ Laravel Projects
 
 24. HAAC (https://github.com/vprabhu1771/haac)
 
+25. Laravel Kingflex (https://github.com/vprabhu1771/laravel_kingflex)
+
+26. Laravel Thoondil Meengal Shop (https://github.com/vprabhu1771/laravel_thoondil_meengal_shop)
+
+27. Flutter Laravel Thoondil Meengal Shop (https://github.com/vprabhu1771/flutter_laravel_thoondil_meengal_shop)
+
 IOT Projects
 
 1. Node Ardunio (https://github.com/vprabhu1771/node_arduino)
@@ -277,3 +283,9 @@ Training Material
 7. Flutter Essential Training (https://github.com/vprabhu1771/Flutter-Essential-Training)
 
 8. Flutter-Advanced-Training (https://github.com/vprabhu1771/Flutter-Advanced-Training)
+
+9. MySQL Essential Training (https://github.com/vprabhu1771/MySQL-Essential-Training)
+
+10. Python Advanced Training (https://github.com/vprabhu1771/Python-Advanced-Training)
+
+11. Cyber Security Essential Training (github.com/vprabhu1771/Cyber-Security-Essential-Training)
