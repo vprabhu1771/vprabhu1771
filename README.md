@@ -141,6 +141,8 @@ Laravel Projects
 
 21. Laravel Invoice Management System (https://github.com/vprabhu1771/laravel_invoice_management_system)
 
+22. HAAC (https://github.com/vprabhu1771/haac)
+
 IOT Projects
 
 1. Node Ardunio (https://github.com/vprabhu1771/node_arduino)
