@@ -267,3 +267,9 @@ Training Material
 2. Supabase Essential Training (https://github.com/vprabhu1771/Supabase-Essential-Training)
 
 3. Microsoft SQL Essential Training (https://github.com/vprabhu1771/Microsoft-SQL-Essential-Training)
+
+4. Electron JS Essential Training (https://github.com/vprabhu1771/Electron-JS-Essential-Training)
+
+5. ESP32-Essential-Training (https://github.com/vprabhu1771/ESP32-Essential-Training)
+
+6. VBA Essential Training (https://github.com/vprabhu1771/VBA-Essential-Training)
