@@ -153,6 +153,8 @@ Laravel Projects
 
 27. Flutter Laravel Thoondil Meengal Shop (https://github.com/vprabhu1771/flutter_laravel_thoondil_meengal_shop)
 
+28. Laravel ZKTecho (https://github.com/vprabhu1771/laravel_zkt_echo)
+
 IOT Projects
 
 1. Node Ardunio (https://github.com/vprabhu1771/node_arduino)
