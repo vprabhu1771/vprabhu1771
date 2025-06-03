@@ -293,3 +293,5 @@ Training Material
 10. Python Advanced Training (https://github.com/vprabhu1771/Python-Advanced-Training)
 
 11. Cyber Security Essential Training (github.com/vprabhu1771/Cyber-Security-Essential-Training)
+
+12. Unity Essential Training (https://github.com/vprabhu1771/Unity-Essential-Training)
