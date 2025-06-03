@@ -105,6 +105,8 @@ Django Projects
 
 3. Django Blog (https://github.com/vprabhu1771/dj_blog)
 
+4. Django College Canteen (https://github.com/vprabhu1771/dj_college_canteen)
+
 Laravel Projects
 
 1. Laravel Blog (https://github.com/vprabhu1771/laravel_blog)
