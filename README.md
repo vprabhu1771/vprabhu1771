@@ -113,6 +113,8 @@ Laravel Projects
 
 2. Laravel User Management System(https://github.com/vprabhu1771/laravel_user_management_system)
 
+3. Laravel JSONPlaceholder API (https://github.com/vprabhu1771/laravel_jsonplaceholder_api)
+
 1. Laravel Sanctum API Demo (https://github.com/vprabhu1771/laravel_sanctum_api_demo)
 
 2. Flutter Sanctum API Demo (https://github.com/vprabhu1771/flutter_laravel_sanctum_api_demo)
