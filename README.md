@@ -111,6 +111,8 @@ Laravel Projects
 
 1. Laravel Blog (https://github.com/vprabhu1771/laravel_blog)
 
+2. Laravel User Management System(https://github.com/vprabhu1771/laravel_user_management_system)
+
 1. Laravel Sanctum API Demo (https://github.com/vprabhu1771/laravel_sanctum_api_demo)
 
 2. Flutter Sanctum API Demo (https://github.com/vprabhu1771/flutter_laravel_sanctum_api_demo)
