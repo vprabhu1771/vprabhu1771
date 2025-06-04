@@ -115,6 +115,8 @@ Laravel Projects
 
 3. Laravel JSONPlaceholder API (https://github.com/vprabhu1771/laravel_jsonplaceholder_api)
 
+4. Laravel API IPIFY (https://github.com/vprabhu1771/laravel_api_ipify)
+
 1. Laravel Sanctum API Demo (https://github.com/vprabhu1771/laravel_sanctum_api_demo)
 
 2. Flutter Sanctum API Demo (https://github.com/vprabhu1771/flutter_laravel_sanctum_api_demo)
