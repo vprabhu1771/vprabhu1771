@@ -101,11 +101,13 @@ Django Projects
 
 1. Django Weather Report (https://github.com/vprabhu1771/dj_weather_report)
 
-2. Django library Management System(https://github.com/vprabhu1771/dj_library_management_system)
+2. Django API IPIFY (https://github.com/vprabhu1771/dj_api_ipify)
 
-3. Django Blog (https://github.com/vprabhu1771/dj_blog)
+3. Django library Management System(https://github.com/vprabhu1771/dj_library_management_system)
 
-4. Django College Canteen (https://github.com/vprabhu1771/dj_college_canteen)
+4. Django Blog (https://github.com/vprabhu1771/dj_blog)
+
+5. Django College Canteen (https://github.com/vprabhu1771/dj_college_canteen)
 
 Laravel Projects
 
