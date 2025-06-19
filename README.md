@@ -89,6 +89,8 @@ Flutter ML Projects
 
 8. Flutter Personal Diary for Visually Impaired (https://github.com/vprabhu1771/flutter_personal_diary_for_visually_impaired)
 
+9. Flutter Receipt Print (https://github.com/vprabhu1771/flutter_receipt_print)
+
 Mini Projects
 
 1. React Challan Calculator (https://github.com/vprabhu1771/react_challan_calculator)
@@ -167,6 +169,14 @@ Laravel Projects
 
 28. Laravel ZKTecho (https://github.com/vprabhu1771/laravel_zkt_echo)
 
+29. Laravel Bughunt POS (https://github.com/vprabhu1771/laravel_bughunt_pos)
+
+30. Flutter Laravel Bughunt POS (https://github.com/vprabhu1771/flutter_laravel_bughunt_pos)
+
+31. Laravel Bughunt School (https://github.com/vprabhu1771/laravel_bughunt_school)
+
+32. Laravel Taste Of Chennai (https://github.com/vprabhu1771/laravel_taste_of_chennai)
+
 IOT Projects
 
 1. Node Ardunio (https://github.com/vprabhu1771/node_arduino)
@@ -201,6 +211,8 @@ Training Material
 4. CSS3-Part-2 (https://github.com/vprabhu1771/CSS3-Part-2)
 
 1. CSS3---Part-3 (https://github.com/vprabhu1771/CSS3---Part-3)
+
+2. Laravel-AdminLTE-Integration (https://github.com/vprabhu1771/Laravel-AdminLTE-Integration)
 
 5. Laravel-Email (https://github.com/vprabhu1771/Laravel-Email)
 
