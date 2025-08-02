@@ -185,6 +185,8 @@ IOT Projects
 
 3. Flutter Ardunio (https://github.com/vprabhu1771/flutter_arduino)
 
+4. Flutter ESP32 (https://github.com/vprabhu1771/flutter_esp32)
+
 
 Training Material
 
