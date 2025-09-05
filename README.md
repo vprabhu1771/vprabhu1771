@@ -321,3 +321,7 @@ Training Material
 12. Unity Essential Training (https://github.com/vprabhu1771/Unity-Essential-Training)
 
 13. DevOps Essential Training (https://github.com/vprabhu1771/DevOps-Essential-Training)
+
+14. Streamlit Training (https://github.com/vprabhu1771/Streamlit-Training)
+
+15. AutoCAD Training (https://github.com/vprabhu1771/AutoCAD-Training)
