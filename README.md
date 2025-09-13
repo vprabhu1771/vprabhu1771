@@ -214,7 +214,9 @@ Training Material
 
 1. CSS3---Part-3 (https://github.com/vprabhu1771/CSS3---Part-3)
 
-2. Laravel-AdminLTE-Integration (https://github.com/vprabhu1771/Laravel-AdminLTE-Integration)
+2. Laravel-Advanced-Training (https://github.com/vprabhu1771/Laravel-Advanced-Training)
+
+3. Laravel-AdminLTE-Integration (https://github.com/vprabhu1771/Laravel-AdminLTE-Integration)
 
 5. Laravel-Email (https://github.com/vprabhu1771/Laravel-Email)
 
