@@ -41,6 +41,9 @@ To use this template:
 
 Let me know if you'd like specific changes or need help with any additional information.
 
+
+1. Raylib-Training (https://github.com/vprabhu1771/Raylib-Training)
+
 Tkinter Projects
 
 1. Tkinter Billing System (https://github.com/vprabhu1771/tkinter_billing_system)
